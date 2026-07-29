@@ -1,1 +1,1 @@
-# Cybersecurity-Notes
+# Cyber-Notes-Hub
