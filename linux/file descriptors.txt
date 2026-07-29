@@ -1,7 +1,7 @@
 In Linux, everytime a command is run three invisible channels 
 	are opened which handle the flow of information
 	
-			Number	              Name	    Abbreviation
-	 		  0		Standard Input	       stdin
+			Number	             Name	    Abbreviation
+	 		  0	        Standard Input	       stdin
 			  1 		Standard Output        stdout
 			  2 		Standard Error         stderr
