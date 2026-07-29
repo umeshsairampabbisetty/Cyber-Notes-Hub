@@ -1,0 +1,3 @@
+why does "history -c" never work and always gives "fc: event not found: -c"
+
+where is the "~/.bash_history" file??
