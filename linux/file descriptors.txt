@@ -1,4 +1,4 @@
-In Linux, everytime a command is run three invisible channels 
+In Linux everytime a command is run, these three invisible channels 
 	are opened which handle the flow of information
 	
 			Number	             Name	    Abbreviation
