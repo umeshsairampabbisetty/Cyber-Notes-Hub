@@ -17,4 +17,4 @@ This is a central repo containing all of my personal study notes, cheat sheets &
 ---
 
 ## ⚠️ Caution
-*This repository is for educational purposes and personal reference only. Please use anything learn here in authorised permissions granted environments only....*
+*This repository is for educational purposes and personal reference only. Please use anything learnt here in authorised permissions granted environments only....*
