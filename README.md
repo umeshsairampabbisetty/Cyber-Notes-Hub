@@ -9,10 +9,10 @@ This is a central repo containing all of my personal study notes, cheat sheets &
 
 | Category | Info |
 | :--- | :--- |
-| **[Linux](./linux)** | From entry level stuff to Adv about administration, perms, Sys Cmds etc. |
-| **[Networking](./networking)** | Core networking concepts, protocols, packet analysis, and subnetting. |
-| **[Web](./web)** | Web application vulnerabilities, OWSAP, payloads, and exploitation notes. |
-| **[OSINT](./osint)** | Footprinting, social media recon, and data harvesting. |
+| **[Linux](./Linux)** | From entry level stuff to Adv about administration, perms, Sys Cmds etc. |
+| **[Networking](./Networking)** | Core networking concepts, protocols, packet analysis, and subnetting. |
+| **[Web](./Web)** | Web application vulnerabilities, OWSAP, payloads, and exploitation notes. |
+| **[OSINT](./OSINT)** | Footprinting, social media recon, and data harvesting. |
 
 ---
 
