@@ -108,8 +108,22 @@ to check usage of storage ( disk usage ) -> du
 	-h -> human readable
 	-s -> summary of the size of each folder
 
+to sort the contents of a text file -> sort
+    By default, it sorts alphabetically (A-Z) and treats numbers as characters, not mathematical values.
+
+   Flag       Name                          What it does   
+    -r        Reverse         Sorts backwards (A to Z or highest to lowest)
+    -n        Numeric         Sorts numbers by math value, not alphabetically.
+    -k      Key (Column)      Sorts based on a specific column of data.
 
 
+to filter out duplicate lines of text -> uniq
+    It only compares a line to the line immediately above or below it.
+
+   Flag        Name                       What it does   
+    -u        Unique        Only prints lines that appear exactly once.
+    -d       Duplicate      Only prints lines that have duplicates.
+    -c         Count        Prefixes each line with its count.
 
 
 
