@@ -124,6 +124,33 @@ to filter out duplicate lines of text -> uniq
     -u        Unique        Only prints lines that appear exactly once.
     -d       Duplicate      Only prints lines that have duplicates.
     -c         Count        Prefixes each line with its count.
+    
+to check the current user -> whoami
+
+to check the info of logged in users -> who
+
+to show the identity information of an user -> id
+
+to change the password -> passwd
+
+to check running processes -> ps
+	every running process -> ps aux
+	
+to show real time process monitor - top
+
+A prettier version of top (if installed) -> htop
+
+to terminate a process -> kill
+	force kill -> kill -9 ....
+	to list all the supported signals -> -l
+	
+to kill by process name -> pkill
+
+
+
+
+
+
 
 
 
