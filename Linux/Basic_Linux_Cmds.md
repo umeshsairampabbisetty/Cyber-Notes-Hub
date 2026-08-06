@@ -28,7 +28,7 @@ to move/rename files/folders - mv
 
 to create new files -> touch
 
-to create and read files/concatenate -> cat 
+to read and create files/concatenate -> cat 
 	syntax for making a file and then writing data into it -> cat > newfilename.ext
 								 Ctrl + D to save it (done)
 
