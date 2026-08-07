@@ -37,6 +37,8 @@ There are 3 main permissions for any file/folder (both have similar but not same
     Uses symbols to add (+), remove (-), or set (=) specific permissions.
     Syntax:  chmod [who][operation][permissions][filename]
     -R -> to recursively apply changes to all stuff in the folder
+
+YET TO LEARN!!!---->
     
 -Special Permissions bits-
 
