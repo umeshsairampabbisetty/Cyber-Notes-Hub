@@ -16,3 +16,14 @@ you can Combine commands with pipes (|)
     For example - history | grep ssh
     
 to redirect error messages to void -> 2>/dev/null
+
+*shell operators*
+
+Use & when you want tasks to run simultaneously in the background.
+        Starts Command 1 in background, immediately runs Command 2.
+        
+Use && when tasks must run one after another, and the second task depends on the success of the first.
+
+> means overwrite/newfile
+
+>> means append/add to the last line
