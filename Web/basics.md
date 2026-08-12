@@ -38,3 +38,12 @@ Final-Caching & Relay back to Client
      Relays the IP address back to the Client to establish the connection.
 
 What is HTTP? (HyperText Transfer Protocol) -> set of rules used while communicating with servers
+
+What is a URL? (Uniform Resource Locator)
+• Scheme: Protocol used to access the resource (e.g., HTTP, HTTPS, FTP).
+• User: Optional username and password embedded in the URL for authentication.
+• Host: Server's domain name or IP address.
+• Port: Connection port number (typically 80 for HTTP, 443 for HTTPS; range is 1 to 65535).
+• Path: Specific file name or resource location on the server.
+• Query String: Additional data sent to the path (e.g., ?id=1).
+• Fragment: Reference to a specific section or anchor location on the page.
