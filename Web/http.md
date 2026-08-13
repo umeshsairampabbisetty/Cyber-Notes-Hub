@@ -21,3 +21,9 @@
         Welcome To TryHackMe.com
     </body>
     </html>
+
+- Purpose: HTTP methods define the client's intended action when making a request.
+• GET: Retrieves information from a web server.
+• POST: Submits data to the web server, often used to create new records.
+• PUT: Submits data to update existing information on the web server.
+• DELETE: Removes information or records from a web server.
