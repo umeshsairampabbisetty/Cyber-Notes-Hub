@@ -27,3 +27,22 @@
 • POST: Submits data to the web server, often used to create new records.
 • PUT: Submits data to update existing information on the web server.
 • DELETE: Removes information or records from a web server.
+
+- HTTP Status Code Ranges
+• 1xx (Informational): Request received, continue processing.
+• 2xx (Success): Request successfully completed.
+• 3xx (Redirection): Further action required to complete request.
+• 4xx (Client Error): Bad request or unauthorized/forbidden access.
+• 5xx (Server Error): Server failed to fulfill a valid request.
+Common HTTP Status Codes
+• 200 OK: Request completed successfully.
+• 201 Created: New resource successfully created.
+• 301 Moved Permanently: Resource permanently moved to a new URL.
+• 302 Found: Temporary redirect to a different URL.
+• 400 Bad Request: Invalid or malformed request.
+• 401 Unauthorized: Authentication required.
+• 403 Forbidden: Access denied regardless of login state.
+• 404 Not Found: Requested resource does not exist.
+• 405 Method Not Allowed: HTTP method not supported for this resource.
+• 500 Internal Server Error: Generic server-side error.
+• 503 Service Unavailable: Server overloaded or down for maintenance.
