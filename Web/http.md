@@ -38,7 +38,14 @@ What is a URL? (Uniform Resource Locator)
 • GET: Retrieves information from a web server.
 • POST: Submits data to the web server, often used to create new records.
 • PUT: Submits data to update existing information on the web server.
+• PATCH: Partially modifies a resource.
 • DELETE: Removes information or records from a web server.
+
+   Feature                 GET                                POST
+Data Location     URL Query String                       Request Body
+Security          Insecure for sensitive data            More secure(needs TLS)
+Caching           Cached by default                      Never cached
+Idempotent?       Yes(repeated calls dont change state)  No (creates duplicates)
 
 - HTTP Status Code Ranges
 • 1xx (Informational): Request received, continue processing.
@@ -57,4 +64,5 @@ Common HTTP Status Codes
 • 404 Not Found: Requested resource does not exist.
 • 405 Method Not Allowed: HTTP method not supported for this resource.
 • 500 Internal Server Error: Generic server-side error.
+• 502 Bad Gateway:
 • 503 Service Unavailable: Server overloaded or down for maintenance.
