@@ -2,9 +2,9 @@
 
 1st - the request
     GET / HTTP/1.1
-    Host: tryhackme.com
+    Host: website.com
     User-Agent: Mozilla/5.0 Firefox/87.0
-    Referer: https://tryhackme.com/
+    Referer: https://website.com/
     
 2nd - the response
     HTTP/1.1 200 OK
@@ -15,10 +15,10 @@
 
     <html>
     <head>
-        <title>TryHackMe</title>
+        <title>hello</title>
     </head>
     <body>
-        Welcome To TryHackMe.com
+        Welcome To my home page
     </body>
     </html>
 
